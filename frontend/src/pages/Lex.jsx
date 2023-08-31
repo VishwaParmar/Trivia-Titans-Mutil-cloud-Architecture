@@ -12,9 +12,9 @@ import { useNavigate } from 'react-router-dom';
 
 AWS.config.update({
   region: 'us-east-1',
-  accessKeyId: 'ASIAVKRJSILQGSAQEMUO',
-  secretAccessKey: '/IVp35r4BxxRqbJ8qnuSJY8ht9nva1mLdKMGd701',
-  sessionToken: 'FwoGZXIvYXdzEKH//////////wEaDK+giAs7GRM6b5crLSLAAc9FuQczDKIlDmT4gDnPrtvj+J5dBc5noWDqUQ+JnjfLtxvEleQ/wCY2SMZGd3MT4TRl2VFfjRFsNu/K8inSftuDTINIZUDGsrYozioispj1YfMK1AujnthP7VOlVqRRJUzZWOfJoO7xXMn8gejS0UF8n4ZfYpS8SITUM30BNI+5xmV4kPK/6tx1BjHcR98Sw2cBkBYDwhz9hTZpK/gh1d1axpBUTH7D/gYlo9DlIjWBfLO2YbMrQBEjNW1rR6Mx1yiWnLamBjItldojjP1sOI1YmFcQmUHZ2g4/aaD0IuIQiuVQHBXci0SfEC+R4yIvSgYBXutP'
+  accessKeyId: '',
+  secretAccessKey: '',
+  sessionToken: ''
 });
 
 // Function to interact with Amazon Lex V2 bot
